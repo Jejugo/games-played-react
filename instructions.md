@@ -1,8 +1,5 @@
 ### Instructions
 
-For this exercise, imagine that you're building a section of a simple video game
-website where we should be able to add users and display users, along with the
-number of games he/she has played.
 
 **Task**: Create a React app that lets us add a user's first name, last name, and
 username. When the user is added, the number of games that he/she has played is
